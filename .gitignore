@@ -1,5 +1,6 @@
 .betamigrated
 .localized
+.venv
 
 .DS_Store
 .AppleDouble

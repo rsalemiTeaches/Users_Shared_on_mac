@@ -1,0 +1,10 @@
+[project]
+name = "workspace-sorter"
+version = "0.1.0"
+description = "A simple workspace sorting MCP server utilizing FastMCP"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+dependencies = [
+    "mcp>=0.1.0",
+]
